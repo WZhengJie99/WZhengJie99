@@ -10,6 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a> </p>
 
+<!---Lemon Slice :D--->
+<img align="right" src="https://github.com/WZhengJie99/WZhengJie99/assets/147889572/954ae6c2-e13c-4d7d-96de-ec2e9d01b2ec" width="35%" height="35%">
+
 - 🔭 I’m currently working on **my coding skills**
 
 - 🌱 I’m currently learning **Node.js, Express.js, SQL**
