@@ -4,7 +4,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Zheng Jie</h1>
-<h3 align="center">A Computer Science Student from Singapore</h3>
+<h3 align="center">Grind · Automate · AFK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wzhengjie99&label=Profile%20views&color=0e75b6&style=flat" alt="wzhengjie99" /> </p>
 
