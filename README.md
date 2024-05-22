@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wzhengjie99&show_icons=true&locale=en&rank_icon=github&theme=shadow_blue" alt="wzhengjie99" width="46%" height="46%"/>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wzhengjie99&theme=shadow_blue" alt="wzhengjie99" width="49%" height="49%"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wzhengjie99&theme=shadow_blue" alt="wzhengjie99" width="48%" height="48%"/>
 
 
 </p>
