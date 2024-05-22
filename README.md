@@ -46,11 +46,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&locale=en&layout=compact&theme=shadow_blue" alt="wzhengjie99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&locale=en&layout=compact&theme=shadow_blue" alt="wzhengjie99" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wzhengjie99&show_icons=true&locale=en&rank_icon=github&theme=shadow_blue" alt="wzhengjie99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wzhengjie99&show_icons=true&locale=en&rank_icon=github&theme=shadow_blue" alt="wzhengjie99" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wzhengjie99&theme=shadow_blue" alt="wzhengjie99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wzhengjie99&theme=shadow_blue" alt="wzhengjie99" /></p>
 
 
 
