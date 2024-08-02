@@ -1,7 +1,5 @@
 <!---Github profile generator from https://rahuldkjain.github.io/gh-profile-readme-generator/--->
 
-###
-
 <h1 align="center">Hi 👋, I'm Zheng Jie</h1>
 <h3 align="center">Grind · Automate · AFK</h3>
 
@@ -11,26 +9,33 @@
       src="https://typograssy.deno.dev/api?text=Hello%20there!%20Welcome%20to%20my%20Profile%20Page!%20:D%20&l1=00bfff&l2=0084ff&l3=0055ff&l4=2b00ff&speed=100"></a>
 </p>
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/WZhengJie99)
-[![Gmail](https://img.shields.io/badge/wzhengjie99@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:wzhengjie99@gmail.com)
-[![Linkedin](https://img.shields.io/badge/WZJ-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wong-zheng-jie-24a684275)
-[![x](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FWZJ_99_style=flat)](https://x.com/WZJ_99_)
-<img src="https://komarev.com/ghpvc/?username=wzhengjie99&label=Profile%20views&color=0e75b6&style=flat" alt="wzhengjie99" />
-
+<p align="center">
+  <a href="https://github.com/WZhengJie99">
+    <img src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="wzhengjie99@gmail.com">
+    <img src="https://img.shields.io/badge/wzhengjie99@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red" />
+  </a>   
+  <a href="https://www.linkedin.com/in/wong-zheng-jie-24a684275">
+    <img src="https://img.shields.io/badge/WZJ-30302f?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://x.com/WZJ_99_">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FWZJ_99_style=flat" />
+  </a>    
+  <img src="https://komarev.com/ghpvc/?username=wzhengjie99&label=Profile%20views&color=0e75b6&style=flat" alt="wzhengjie99" />    
+</p>
 
 </p>
 <!---Trophies--->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a> </p>
-
-
-<!---Lemon Slice :D--->
-<img align="right" src="https://github.com/WZhengJie99/WZhengJie99/assets/147889572/954ae6c2-e13c-4d7d-96de-ec2e9d01b2ec" width="35%" height="35%">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a> </p>
 
 <p></p>
 
+## About me:
+
 - 🔭 I’m currently working on **my coding skills**
 
-- 🌱 I’m currently learning: **Node.js, Express.js, SQL**
+- 🌱 I’m currently learning: **Paas, NLP, LLM APIs and building bots**
 
 - 👯 I’m looking to collaborate on **more projects**
 
@@ -40,48 +45,29 @@
 
 - ⚡ Fun fact: **The earth is round**
 
-
 <p></p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://p5js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="p5.js" width="40" height="40"/> 
-  </a> <p></p>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual studio" width="40" height="40"/> 
-  </a>
-</p>
 
+## Tech Stack:
+
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cpp,html,css,py" />
+  </a> 
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs" />
+  </a> 
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,npm,git,github,mongodb,vercel,postman,autocad" />
+  </a>    
+</p>
+</br>
+
+## GitHub Stats:
 
 </br>
 <p align="left">
