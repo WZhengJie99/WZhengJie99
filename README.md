@@ -6,7 +6,7 @@
 <!---Typograsy--->
 <p align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" 
-      src="https://typograssy.deno.dev/api?text=Hello%20there!%20Welcome%20to%20my%20Profile%20Page!%20:D%20&l1=00bfff&l2=0084ff&l3=0055ff&l4=2b00ff&speed=100"></a>
+      src="https://typograssy.deno.dev/api?text=%E6%B1%AA%E6%94%BF%E6%9D%B0&l1=00bfff&l2=0084ff&l3=0055ff&l4=2b00ff&speed=100"></a>
 </p>
 
 <p align="center">
