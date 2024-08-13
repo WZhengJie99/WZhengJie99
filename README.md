@@ -1,4 +1,4 @@
-<!---Github profile generator from https://rahuldkjain.github.io/gh-profile-readme-generator/--->
+
 
 <h1 align="center">Hi 👋, I'm Zheng Jie</h1>
 <h3 align="center">Grind · Automate · AFK</h3>
@@ -6,7 +6,7 @@
 <!---Typograsy--->
 <p align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" 
-      src="https://typograssy.deno.dev/api?text=%E6%B1%AA%E6%94%BF%E6%9D%B0&l1=00bfff&l2=0084ff&l3=0055ff&l4=2b00ff&speed=100"></a>
+      src="https://typograssy.deno.dev/api?text=%E6%B1%AA%E6%94%BF%E6%9D%B0&speed=100"></a>
 </p>
 
 <p align="center">
@@ -69,17 +69,34 @@
 
 ## GitHub Stats:
 
-</br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&locale=en&layout=compact&theme=shadow_blue" alt="wzhengjie99" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzhengjie99&show_icons=true&locale=en&rank_icon=github&theme=shadow_blue" alt="wzhengjie99" width="46%" height="46%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wzhengjie99&theme=shadow_blue" alt="wzhengjie99" width="48%" height="48%" />
-</p>
+<br>
+<div align="center">
+    <a href="https://github.com/WZhengJie99">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=WZhengJie99&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+<div align="center">
+ <a href="https://github.com/WZhengJie99"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=WZhengJie99&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@WZhengJie99's github-readme-stats"/></a>
+ <a href="https://github.com/WZhengJie99"><img src="https://github-readme-streak-stats.herokuapp.com?user=WZhengJie99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ether-genius's github-readme-streak-stats"/></a>
+</div>
 
 <!---
 WZhengJie99/WZhengJie99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- Back to Top -->
+<!-- Arrow Square Up SVG Vector
+COLLECTION: Dazzle Line Icons
+LICENSE: CC Attribution License
+AUTHOR: Dazzle UI
+URL: https://www.svgrepo.com/svg/533629/arrow-square-up
+ -->
+<p align="right">
+<a href="#top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/arrow-square-up-fac539.svg">
+  <img alt="back to top" width="30px" height="30px" src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/arrow-square-up-47a042.svg">
+</picture>
+</a>
+</p>
