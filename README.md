@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on **my coding skills**
 
-- 🌱 I’m currently learning: **Paas, NLP, LLM APIs and building bots**
+- 🌱 I’m currently learning: **ML and Neutral Networks**
 
 - 👯 I’m looking to collaborate on **more projects**
 
@@ -52,12 +52,12 @@
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,html,css,py" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,html,css,py,md" />
   </a> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs" />
+    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs,tailwind" />
   </a> 
 </p>
 <p align="center">
