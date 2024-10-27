@@ -10,26 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WZhengJie99">
-    <img src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white" />
-  </a>
-  <a href="wzhengjie99@gmail.com">
-    <img src="https://img.shields.io/badge/wzhengjie99@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red" />
-  </a>   
-  <a href="https://www.linkedin.com/in/wong-zheng-jie-24a684275">
-    <img src="https://img.shields.io/badge/WZJ-30302f?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://x.com/WZJ_99_">
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FWZJ_99_style=flat" />
-  </a>    
-  <img src="https://komarev.com/ghpvc/?username=wzhengjie99&label=Profile%20views&color=0e75b6&style=flat" alt="wzhengjie99" />    
+  <a href="https://github.com/WZhengJie99"><img src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white"/></a>
+  <a href="wzhengjie99@gmail.com"><img src="https://img.shields.io/badge/wzhengjie99@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red"/></a>   
+  <a href="https://www.linkedin.com/in/wong-zheng-jie-24a684275"><img src="https://img.shields.io/badge/WZJ-30302f?style=flat&logo=linkedin"/></a>
+  <a href="https://x.com/WZJ_99_"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FWZJ_99_style=flat"/></a>    
+  <a href="https://github.com/WZhengJie99"><img src="https://komarev.com/ghpvc/?username=wzhengjie99&label=Profile%20views&color=0e75b6&style=flat" alt="wzhengjie99"/></a>   
 </p>
 
 </p>
 <!---Trophies--->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a> </p>
-
-<p></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a></p>
 
 ## About me:
 
@@ -57,12 +47,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs,npm,tailwind" />
   </a> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,npm,git,github,mongodb,vercel,postman,autocad" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,git,github,mongodb,vercel,postman,autocad" />
   </a>    
 </p>
 </br>
@@ -71,8 +61,9 @@
 
 <br>
 <div align="center">
+      <a href="https://github.com/WZhengJie99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&langs_count=10&locale=en&layout=compact&theme=merko" alt="wzhengjie99 top langs" width="34.5%"/></a>
     <a href="https://github.com/WZhengJie99">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=WZhengJie99&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=WZhengJie99&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="62%" alt="activity graph">
     </a>
 </div>
 <div align="center">
