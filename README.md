@@ -61,7 +61,7 @@
 
 <br>
 <div align="center">
-      <a href="https://github.com/WZhengJie99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&langs_count=10&locale=en&layout=compact&theme=merko" alt="wzhengjie99 top langs" width="34.5%"/></a>
+      <a href="https://github.com/WZhengJie99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wzhengjie99&show_icons=true&langs_count=8&locale=en&layout=compact&theme=merko" alt="wzhengjie99 top langs" width="34.5%"/></a>
     <a href="https://github.com/WZhengJie99">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=WZhengJie99&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="62%" alt="activity graph">
     </a>
