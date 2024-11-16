@@ -1,12 +1,10 @@
 
-
 <h1 align="center">Hi 👋, I'm Zheng Jie</h1>
 <h3 align="center">Grind · Automate · AFK</h3>
 
-<!---Typograsy--->
 <p align="center">
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" 
-      src="https://typograssy.deno.dev/api?text=%E6%B1%AA%E6%94%BF%E6%9D%B0&speed=100"></a>
+<a href="https://wzhengjie99.github.io/Visitor-Count/docs/index.html"><img alt="https://wzhengjie99.github.io/Visitor-Count/docs/index.html" 
+      <img alt="Visitor Count" src="https://visitor-count-t7vu.onrender.com/counter-image?siteIdentifier=https://github.com/WZhengJie99&style=cards-spades"></a>
 </p>
 
 <p align="center">
@@ -21,23 +19,10 @@
 <!---Trophies--->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wzhengjie99" alt="wzhengjie99" /></a></p>
 
-## About me:
-
-- 🔭 I’m currently working on **my coding skills**
-
-- 🌱 I’m currently learning: **ML and Neutral Networks**
-
-- 👯 I’m looking to collaborate on **more projects**
-
-- 🤝 I’m looking for help with: **C++**
-
-- 📫 How to reach me: **wzhengjie99@gmail.com**
-
-- ⚡ Fun fact: **The earth is round**
 
 <p></p>
 
-## Tech Stack:
+## Technologies:
 
 </br>
 <p align="center">
