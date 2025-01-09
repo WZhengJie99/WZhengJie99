@@ -32,12 +32,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs,npm,tailwind" />
+    <img src="https://skillicons.dev/icons?i=p5js,bootstrap,express,sqlite,nodejs,npm,tailwind,sklearn" />
   </a> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,git,github,mongodb,vercel,postman,autocad" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,git,github,mongodb,vercel,postman,autocad,mysql" />
   </a>    
 </p>
 </br>
